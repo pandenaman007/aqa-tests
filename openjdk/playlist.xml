@@ -395,6 +395,7 @@
 		</groups>
 		<impls>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 	</test>
 	<test>
@@ -1681,8 +1682,8 @@
 			<version>11+</version>
 		</versions>
 		<impls>
-			<impl>ibm</impl>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 		<groups>
 			<group>openjdk</group>
@@ -1835,6 +1836,7 @@
 		<impls>
 			<impl>hotspot</impl>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 		<groups>
 			<group>openjdk</group>
@@ -2089,6 +2091,7 @@
 		</groups>
 		<impls>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 	</test>
 	<test>
@@ -2117,6 +2120,7 @@
 		</groups>
 		<impls>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 	</test>
 	<test>
@@ -2145,6 +2149,7 @@
 		</groups>
 		<impls>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 	</test>
 	<test>
@@ -2173,6 +2178,7 @@
 		</groups>
 		<impls>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 	</test>
 	<test>
@@ -2201,6 +2207,7 @@
 		</groups>
 		<impls>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 	</test>
 	<test>
@@ -2229,6 +2236,7 @@
 		</groups>
 		<impls>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 	</test>
 	<test>
@@ -2257,6 +2265,7 @@
 		</groups>
 		<impls>
 			<impl>openj9</impl>
+			<impl>ibm</impl>
 		</impls>
 	</test>
 	<test>
